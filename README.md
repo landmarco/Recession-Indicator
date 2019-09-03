@@ -23,7 +23,7 @@ Overfitting possibility? Most definitely. But when the model was trained on rece
 
 
 
-### Python libraries needed can be installed using Anaconda on Windows. 
+### Python libraries needed can be installed using Anaconda. 
 * numpy
 * pandas
 * keras (needs tensorflow and theano, with tensorflow being the backend to keras)
